@@ -7,18 +7,18 @@ This application applies MVI architecture, with:
 - Model receives data from Intent and prepares it for display. The Model also keeps the current state of the View.
 - View displays the prepared data.
 
-![architecture](../RecipeListApp/Resources/architecture.png)
+![architecture](https://github.com/minmon98/RecipeListApp/blob/main/Resources/architecture.png)
 
-![architecture diagram](../RecipeListApp/Resources/architecture_diagram.webp)
+![architecture diagram](https://github.com/minmon98/RecipeListApp/blob/main/Resources/architecture_diagram.webp)
 
 ## Unit test
 Unit test for intent file
 
-![code coverage](../RecipeListApp/Resources/code_coverage.png)
+![code coverage](https://github.com/minmon98/RecipeListApp/blob/main/Resources/code_coverage.png)
 Code coverage
 
-![test cases](../RecipeListApp/Resources/test_case.png)
+![test cases](https://github.com/minmon98/RecipeListApp/blob/main/Resources/test_case.png)
 Test cases
 
 ## Demo
-![demo](../RecipeListApp/Resources/demo.gif)
+![demo](https://github.com/minmon98/RecipeListApp/blob/main/Resources/demo.gif)
